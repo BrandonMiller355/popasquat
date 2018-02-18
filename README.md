@@ -22,3 +22,4 @@ Pop a Squat will be a simple VR game that involves walls coming at you, and you 
   - Music, including importing your own or searching youtube
   - Announcer to cheer you on ("Just 3 more! You can do it!")
   - Fancy background
+  - Voice controls ("How many walls do you want?")
