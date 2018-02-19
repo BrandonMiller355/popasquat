@@ -1,7 +1,7 @@
 # Pop a Squat
 Pop a Squat will be a simple VR game that involves walls coming at you, and you must squat under them. This is meant to be a very customizable workout tool featuring functionality over bells and whistles.
 
-#Intended base features:
+# Intended base features:
   - You will be able to specify how many walls you want to go through
   - Customize how fast the walls come
   - Customize the distance between walls
@@ -12,7 +12,7 @@ Pop a Squat will be a simple VR game that involves walls coming at you, and you 
   - Explain proper squatting form while loading
   - Display disclaimer that I am not responsible for personal injury before being allowed to proceed
 
-#Potential future enhancements:
+# Potential future enhancements:
   - Keep track of scores online
   - Allow for goal setting (e.g. 1000 squats a week)
   - Wall stops in front of you, you must duck walk under it.
@@ -23,3 +23,6 @@ Pop a Squat will be a simple VR game that involves walls coming at you, and you 
   - Announcer to cheer you on ("Just 3 more! You can do it!")
   - Fancy background
   - Voice controls ("How many walls do you want?")
+  
+# Credits
+https://www.youtube.com/watch?v=IlKaB1etrik followed this tutorial for setting up a basic game in Unity  
