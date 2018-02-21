@@ -1,0 +1,8 @@
+- Spawn new walls at start based on how many they select, and extend the ground appropriately
+- Add collision detection
+- Add menu at the start with basic beginner, intermediate, and advance settings
+- Make finish line in Blender
+- Rename repo and project to PapaSquat
+- Model papa in blender
+- Add papa!
+- Add audio support
