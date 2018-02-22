@@ -1,11 +1,11 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class WallMovement : MonoBehaviour {
     public Rigidbody rbWall;
     public float incomingForce = -500f;
     public float incomingSpeed = -2f;
+
+    public WallMovement wallMovement;
 
     // Use this for initialization
     void Start()
